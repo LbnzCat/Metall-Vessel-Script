@@ -1,0 +1,35 @@
+/*---------------------------------------------------------------------------*\
+  =========                 |
+  \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox
+   \\    /   O peration     | Website:  https://openfoam.org
+    \\  /    A nd           | Version:  9
+     \\/     M anipulation  |
+\*---------------------------------------------------------------------------*/
+Build  : 9-710dba47639b
+Exec   : setsToZones -noFlipMap -constant
+Date   : Nov 03 2022
+Time   : 15:46:56
+Host   : "DESKTOP-BRBU4A0"
+PID    : 3152
+I/O    : uncollated
+Case   : /mnt/c/Users/Lbnz/Desktop/Classy/Show_case/case
+nProcs : 1
+sigFpe : Enabling floating point exception trapping (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 10)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create polyMesh for time = constant
+
+
+
+--> FOAM FATAL ERROR: 
+Cannot find directory "polyMesh/sets" in times "constant" down to constant
+
+    From function virtual Foam::IOobject Foam::fileOperation::findInstance(const Foam::IOobject&, Foam::scalar, const Foam::word&) const
+    in file global/fileOperations/fileOperation/fileOperation.C at line 813.
+
+FOAM exiting
+
