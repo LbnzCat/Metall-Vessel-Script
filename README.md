@@ -21,10 +21,10 @@ This work is intended for faster generation of structured grids for metallurgica
 
 <img src="Png/01.png" alt="01.png" width="100px"/>
 
-<img src="Png/03.png" alt="03.png" style="zoom:30%;" />
+<img src="Png/03.png" alt="03.png" width="100px" />
 
-<img src="Png/04.png" alt="04.png" style="zoom:30%;" />
+<img src="Png/04.png" alt="04.png" width="100px" />
 
-<img src="Png/02.png" alt="02.png" style="zoom:50%;" />
+<img src="Png/02.png" alt="02.png" width="100px" />
 
 ##### Generate long nozzles of different shapes in seconds by simply changing the parameters
