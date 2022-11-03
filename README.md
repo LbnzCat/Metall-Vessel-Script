@@ -19,7 +19,7 @@ This work is intended for faster generation of structured grids for metallurgica
 6. Linux ：Ubuntu 20.04 or other better; Windows : WSL or other virtual machine.
 ### Long Nozzle Example
 
-<img src="Png/01.png" alt="01.png" style="zoom:10%;" />
+<img src="Png/01.png" alt="01.png" width="100px"/>
 
 <img src="Png/03.png" alt="03.png" style="zoom:30%;" />
 
